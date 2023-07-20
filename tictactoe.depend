@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1689876507 source:c:\users\diogo\desktop\tictactoe\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+	<unistd.h>
+
+1689586904 source:c:\users\diogo\desktop\tictactoe\tictactoe\copia.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+	<unistd.h>
+
